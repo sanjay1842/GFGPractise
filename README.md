@@ -1,1 +1,1 @@
-# GFGPractise
+# Java Zoho Practise
